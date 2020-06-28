@@ -1,1 +1,0 @@
-# Hackertest.net-write-up
